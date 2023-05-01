@@ -71,7 +71,7 @@ nav {
 }
 
 header {
-  background-image: url(man-working-printing-house-with-paper-paints.jpg);
+  background-image: url(man-working-printing-house-with-paper-paints.jpg),linear-gradient(to right, #000000b9, #00000097);
   height: 100vh;
   background-size: cover;
   /* position: relative; */
